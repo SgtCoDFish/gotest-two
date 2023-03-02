@@ -1,0 +1,4 @@
+github.com/sgtcodfish/gotest-one v0.0.0-20230302113715-1204af492d19 h1:bPCQQcakd7hGTpF9/3a0BgR4Ay2JkbdPVqOeUryNAjA=
+github.com/sgtcodfish/gotest-one v0.0.0-20230302113715-1204af492d19/go.mod h1:HC/oBrj4oo3+YOMA12vvP16hzKp/Kh3q2CYLPw16+5c=
+golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
+golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
